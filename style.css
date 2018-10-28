@@ -1,0 +1,21 @@
+h1{
+    padding: 20px;
+    margin: 20px;
+    background-color: blue;
+    text-align: center;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+p{
+    padding: 10px;
+    margin-bottom: 15px;
+    text-align: center;
+    color: #fff;
+    background-color: blue;
+
+}
+
+body{
+    background-color: black;
+}
